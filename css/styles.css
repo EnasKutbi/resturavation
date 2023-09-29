@@ -1,0 +1,63 @@
+
+
+.root{
+    
+    -fx-background-size:cover;
+    -fx-background-image:url(../images/IM13.jpg);
+    
+}
+.sarch_m{
+    -fx-background-color : #61678B;
+    -fx-background-radius: 180 ;
+
+}
+.buttons1{
+    -fx-background-color : #e6c4b3;   
+    -fx-border-color:#CD9F6F;
+    -fx-border-width: 1;
+}
+.buttons2{
+    -fx-background-color : #ffecd8;
+    -fx-background-radius: 180 ;
+
+}
+.buttons3{
+    -fx-background-color : #ffffff;
+    -fx-background-radius: 180 ;
+    -fx-border-color: #F4CBBA;
+    -fx-border-width: 1;
+}
+.textfild{
+    -fx-background-color : #705148;
+    -fx-background-radius: 0 ;
+    -fx-border-color:#5D1A1A;
+    -fx-border-radius: 0;
+    -fx-border-width: 1;
+ 
+}
+.PaneOfBack{
+    -fx-background-color : #F4CBBA;
+    -fx-border-color:#CD9F6F;
+    -fx-border-width: 1;
+ 
+}
+.StyleRadius{
+    
+    -fx-background-radius: 190 ;
+
+}
+
+.StyleRegtangel{
+     -fx-background-color : #ffffff;
+    -fx-background-radius: 50;
+    
+}
+
+.oth{
+    -fx-background-color : #ffecd8;
+    -fx-background-radius: 50 ;
+}
+
+.combo1{
+        -fx-background-color : #ffecd8;
+}
